@@ -3,5 +3,6 @@
     <string name="vitamin_k">Vitamin K</string>
     <string name="submit">Submit</string>
     <string name="date">Date</string>
-    <string name="date_format">MM/dd/YYMM/dd/YY</string>
+    <string name="date_format">%1$02d-%2$02d-%3$d</string>
+    <string name="vitaminK_formatter">%,.4f</string>
 </resources>
