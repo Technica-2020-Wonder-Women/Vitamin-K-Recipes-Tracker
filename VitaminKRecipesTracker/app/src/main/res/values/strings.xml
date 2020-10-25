@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Vitamin-K-Recipes-Tracker</string>
+    <string name="app_name">My Application</string>
+    <string name="vitamin_k">Vitamin K</string>
+    <string name="submit">Submit</string>
+    <string name="date">Date</string>
+    <string name="date_format">MM/dd/YYMM/dd/YY</string>
 </resources>
